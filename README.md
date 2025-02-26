@@ -69,8 +69,9 @@ The dataset contains various machine sensor readings and operational parameters:
 ## **How to Use the Project**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Predictive-Maintenance-ML.git
-   cd Predictive-Maintenance-ML
+   git clone https://github.com/Pranavtiwari30/TATA-STEEL-MACHINE-FAILURE-PREDICTION-MACHINE-LEARNING-MODEL
+   cd TATA-STEEL-MACHINE-FAILURE-PREDICTION-MACHINE-LEARNING-MODEL
+
    ```
 2. Install dependencies:  
    ```bash
